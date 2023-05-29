@@ -1,0 +1,45 @@
+.nav-container{
+   background-color: #272727;
+   width: 100%;
+   height: 60px;
+}
+
+.nav-items{
+     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 5px;
+}
+
+.home-and-jobs-container{
+    display: flex;
+    align-items: center;
+}
+
+.logo-img{
+    width: 90px;
+    margin-left: -30px;
+}
+
+.links-name{
+    color:  #ffffff;
+    font-family: Roboto;
+    margin-left: 10px;
+
+}
+
+.button-ele{
+    background-color: #6366f1;
+    margin-right: 12px;
+    color:  #ffffff;
+    font-family: Roboto;
+    border: 0px;
+    height: 25px;
+    width: 80px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.link{
+    text-decoration: none;
+}

@@ -1,0 +1,40 @@
+.home-container{
+   background-image: url("https://assets.ccbp.in/frontend/react-js/home-lg-bg.png");
+   background-color: #000000;
+   background-size: cover;
+    height: 100vh;
+    width: 100%;
+    margin-top: -30px;
+    padding-left: 20px;
+
+}
+
+.items{
+   width: 500px;
+}
+.home-head{
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 45px;
+    padding-top: 70px;
+  
+}
+
+.home-description{
+    font-family: Roboto;
+    color:  #f1f5f9;
+    font-size: 15px;
+    margin-bottom: 30px;
+   
+}
+
+.home-button-ele{
+    background-color: #6366f1;
+    border: 0px;
+    color: #ffffff;
+    font-weight: bold;
+    height: 40px;
+    width: 80px;
+    border-radius: 8px;
+    font-size: 10px;
+}
